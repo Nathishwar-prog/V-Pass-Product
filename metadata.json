@@ -1,0 +1,7 @@
+{
+  "name": "Visitor Pass Management System",
+  "description": "A digital system to register, issue, and verify visitor passes. This application provides role-based access for Admins, Security, Employees, and Visitors to manage the visitor lifecycle efficiently.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
